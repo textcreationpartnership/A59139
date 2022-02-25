@@ -1,0 +1,456 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A moderate computation of the expences in provisions, spent in the cities of London and Westminster and the places within the weekly bills of mortality, for a year, month, week, day, hour and minute, founded upon this modest supposition, that there may be but [a] million of people within the said cities and weekly bills of mortality, observed by a scrutinous enquiry i[n] most of the particulars / by John Seller, Sen.</title>
+            <author>Seller, John, fl. 1658-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59139</idno>
+            <idno type="STC">Wing S2476</idno>
+            <idno type="STC">ESTC R15680</idno>
+            <idno type="EEBO-CITATION">12431260</idno>
+            <idno type="OCLC">ocm 12431260</idno>
+            <idno type="VID">61964</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59139)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61964)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 295:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A moderate computation of the expences in provisions, spent in the cities of London and Westminster and the places within the weekly bills of mortality, for a year, month, week, day, hour and minute, founded upon this modest supposition, that there may be but [a] million of people within the said cities and weekly bills of mortality, observed by a scrutinous enquiry i[n] most of the particulars / by John Seller, Sen.</title>
+                  <author>Seller, John, fl. 1658-1698.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.D. and are to be sold by Richard Baldwin ... and by the author ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Food consumption --  England --  London.</term>
+               <term>London (England) --  Statistics.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table_of_expenses">
+            <pb facs="tcp:61964:1" rendition="simple:additions"/>
+            <head>A Moderate Computation of the Expences in Proviſions, ſpent in the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and the Places within the Weekly Bills of Mortality, for a Year, Month, Week, Day, Hour and Minute, founded upon this modeſt Suppoſition, That there may be but <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Million of People within the ſaid Cities and Weekly Bills of Mortality, obſerved by a ſcrutinous Enquiry i<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> moſt of the Particulars.</head>
+            <byline>By <hi>JOHN SELLER,</hi> Sen.</byline>
+            <p>
+               <table>
+                  <head>Proviſions ſpent in one Week at the aforeſaid Places.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>1000 BEeves at <hi>6 l.</hi> apiece</cell>
+                     <cell>6000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>6000 Sheep at 12 <hi>s.</hi> apiece</cell>
+                     <cell>3600</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>2000 Calves at 1 <hi>l.</hi> 4 <hi>s.</hi> apiece</cell>
+                     <cell>2400</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>3000 Lambs at 8 <hi>s.</hi> a piece for ſix Months</cell>
+                     <cell>1200</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>1500 Hoggs in Pork and Bacon, at 20 <hi>s.</hi> apiece, for 6 Months</cell>
+                     <cell>1500</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>2000 Pigs at 2 <hi>s.</hi> 6 <hi>d.</hi> apiece</cell>
+                     <cell>250</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>1000 Turkeys at 3 <hi>s.</hi> 6 <hi>d.</hi> apiece for 6 Months</cell>
+                     <cell>175</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>1000 Geeſe at 2 <hi>s.</hi> 6 <hi>d.</hi> apiece, for 6 Months</cell>
+                     <cell>125</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>2000 Capons at 1 <hi>s.</hi> 8 <hi>d.</hi> apiece</cell>
+                     <cell>166</cell>
+                     <cell>13</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>3000 Pullets at 1 <hi>s.</hi> 2 <hi>d.</hi> apiece</cell>
+                     <cell>175</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>500 Dozen of Chickens at 9 <hi>s. per</hi> dozen</cell>
+                     <cell>156</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>4300 Ducks at 9 <hi>d.</hi> apiece</cell>
+                     <cell>161</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>1500 Dozen of Rabits at 7 <hi>s. per</hi> dozen, for <hi>8</hi> Months</cell>
+                     <cell>525</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>2000 Dozen of Pigeons at 2 <hi>s. per</hi> dozen, for 8 Months</cell>
+                     <cell>200</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>700 Dozen of wild Fowl, of ſeveral ſorts, for 6 Months</cell>
+                     <cell>250</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>In Salt and freſh Fiſh, at one penny a day, for 1/2 a Million of People for one Week,</cell>
+                     <cell>14583</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>In Bread of all ſorts, white and brown, at one penny a day, for a Million of People for one Week,</cell>
+                     <cell>29166</cell>
+                     <cell>13</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>300 Tuns of Wine of all ſorts, at 50 <hi>l.</hi> a Tun one ſort with another, for one Week,</cell>
+                     <cell>15000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>In Milk, Butter, Cheeſe, <hi>&amp;c.</hi> at one penny a day, for a Mil<g ref="char:EOLhyphen"/>lion of People for a Week.</cell>
+                     <cell>29166</cell>
+                     <cell>13</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>In Fruit of all ſorts, at one Far<g ref="char:EOLhyphen"/>thing a day, for one Million of People for a Week,</cell>
+                     <cell>7291</cell>
+                     <cell>13</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>In Eggs of Hens, Ducks, Geeſe, <hi>&amp;c.</hi> at half a farthing a day, for a Million of People for one Week,</cell>
+                     <cell>3645</cell>
+                     <cell>11</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>In Beer and Ale ſtrong and ſmall, at 2 <hi>d.</hi> a day for a Mil<g ref="char:EOLhyphen"/>lion of People for one Week,</cell>
+                     <cell>58333</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>In Sugar, Plums and Spice, and all ſorts of Grocery, at a half-penny a day for a Million of People for one Week,</cell>
+                     <cell>14583</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>In Wheat-flower for Pies and Puddings, Oat-meal and Rice, <hi>&amp;c.</hi> at half a farthing a day for a Million of People for one Week,</cell>
+                     <cell>3645</cell>
+                     <cell>11</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>In Salt, Oil, Vinegar, Capers, Olaves, and all other Sauces, at half a farthing a day for a Million of People for a Week,</cell>
+                     <cell>3645</cell>
+                     <cell>11</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>In Roots and Herbs of all ſorts both for Food and Phyſick, at half a farthing a day for a Million of People for one Week,</cell>
+                     <cell>3645</cell>
+                     <cell>11</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>In Sea-coal, Charcoal, Candles and Fire-wood of all ſorts at one penny a day for a Millio<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of People for one Week,</cell>
+                     <cell>29166</cell>
+                     <cell>13</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>In Paper of all ſorts (a great quantity being uſed in Prin<g ref="char:EOLhyphen"/>ting) Quills, Pens, Ink, and Wax, at a farthing a day for a Million of People for one Week,</cell>
+                     <cell>7291</cell>
+                     <cell>13</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>In Tobacco and Pipes, and Snuff at half a farthing a day for a Million of People for a Week,</cell>
+                     <cell>3645</cell>
+                     <cell>11</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>In Clothing, as Linen and Wool<g ref="char:EOLhyphen"/>len for Men, Women and Chil<g ref="char:EOLhyphen"/>dren Shoes, Stockings, <hi>&amp;c.</hi> at 3 <hi>s.</hi> 6 <hi>d. per</hi> Week, for a Million of People for a Week,</cell>
+                     <cell>175000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Expences for Horſe-meat, in Hay, Oats, and Beans, 1000 Load of Hay a Week at 40 <hi>s.</hi> a Load, comes to 2000 <hi>l.</hi> In Oats and Beans the like value, 2000 <hi>l.</hi> which is in all for one Week,</cell>
+                     <cell>4000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Cyder, Mum, Brandy, Strong-water, Coffee, Chocolet, Tea, and other Sherbets, at 1 <hi>d.</hi> a day for a Million of People</cell>
+                     <cell>29166</cell>
+                     <cell>13</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="4">
+                        <hi>The Computations of theſe Expences.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>For one Year is</cell>
+                     <cell>23174908</cell>
+                     <cell>07</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>For one Month</cell>
+                     <cell>1782685</cell>
+                     <cell>05</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>For one Week</cell>
+                     <cell>445671</cell>
+                     <cell>06</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>For one Day</cell>
+                     <cell>63667</cell>
+                     <cell>06</cell>
+                     <cell>07</cell>
+                  </row>
+                  <row>
+                     <cell>For one Hour</cell>
+                     <cell>2652</cell>
+                     <cell>16</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>For one Minute</cell>
+                     <cell>44</cell>
+                     <cell>04</cell>
+                     <cell>03</cell>
+                  </row>
+               </table>
+            </p>
+            <div type="notice">
+               <p>Note, That in this Computation, there is allowed ſeven Days in a Week, and four Weeks, or 28 Days to a Month, and thirteen of thoſe Months to a Year, conſiſting of 364 days, the odd day not reckoned.</p>
+               <p>And alſo you are to underſtand, that in all thoſe Computations, every thing is reckoned rather lower than higher in each Computation, as may appear in theſe two Inſtances.</p>
+               <p>Firſt, As to the number of People, which is computed at a Million in the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and within the compaſs of the weekly Bills of Mortality; but it's generally ſuppoſ to be a far greater number.</p>
+               <p>Secondly, There is computed only a thouſand of Beeves ſpent weekly; but it is rationally ſuppoſed that there are a great many more ſpent in a Week, which has been plainly made out by ſome of the Tanners in <hi>Leaden-hall,</hi> that ſuppoſe that one Week with another in the whole Year, there are bought 1500 raw Hides from the Butchers in a Week, moſt of which are ſold by <hi>London</hi> Butchers.</p>
+               <p>The ſame Method hath been obſerved throughout the whole <hi>Hypotheſis</hi>; for in a thing of this nature, it is impoſſible to come to exactneſs in the Compu<g ref="char:EOLhyphen"/>tation, therefore it is better to reckon under than over: for you muſt note, that this is but an Eſtimate made according to the beſt Informations that could be collected from ſome of the beſt knowing Perſons in every particular.</p>
+               <p>Wherein we may note in this Eſtimate the ſingular Providence of the Almighty, to make ſuch a wonderful Proviſion for the Support of ſuch a prodigious number of People, and to be ſupplied with plenty of all things for the Life of Man, in ſuch great and populous places as theſe two Cities are; which for theſe, and all other of God's wonderful Providences, let us give to him all Praiſe, Honour and Glory, now and for evermore. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="list_of_provisions_for_a_feast">
+            <head>A great Feaſt made by, <hi>GEORGE NEVIL,</hi> Chancellor of <hi>England,</hi> and Archhiſhop of <hi>York,</hi> in the Reign of <hi>Edward</hi> the Fourth, <hi>1470.</hi> taken out of <hi>Fuller</hi>'s Church-Hiſtory, <hi>p. 193.</hi> At which Feaſt were moſt of the Biſhops, and many of the Nobility and Gentry.</head>
+            <p>
+               <list>
+                  <head>
+                     <list>
+                        <item>Earl of <hi>Warwick</hi> Steward. </item>
+                        <item>E. of <hi>Bedford</hi> Treaſurer.</item>
+                        <item>Ld <hi>Haſtings</hi> Comptroller, and many more noble Officers.</item>
+                        <item>Servitors 1000,</item>
+                        <item>Cooks 62,</item>
+                        <item>Kitcheners 515.</item>
+                     </list>
+                  </head>
+                  <item>300 QUarters of Wheat.</item>
+                  <item>330 Tuns of Ale.</item>
+                  <item>104 Tuns of Wine.</item>
+                  <item>1 Pipe of Ipocras.</item>
+                  <item>80 Fat Oxen.</item>
+                  <item>6 Wild Bulls.</item>
+                  <item>1004 Sheep.</item>
+                  <item>300 Calves.</item>
+                  <item>300 Porkers.</item>
+                  <item>3000 Geeſe.</item>
+                  <item>3000 Capons.</item>
+                  <item>300 Piggs:</item>
+                  <item>400 Plovers.</item>
+                  <item>100 Quailes.</item>
+                  <item>200 Fowls call'd Rees.</item>
+                  <item>100 Peacocks.</item>
+                  <item>4000 Mallards and Teals.</item>
+                  <item>200 Cranes.</item>
+                  <item>200 Kids.</item>
+                  <item>2000 Chickens.</item>
+                  <item>4000 Pigeons.</item>
+                  <item>4000 Coneys.</item>
+                  <item>204 Bittours.</item>
+                  <item>400 Hernſhaws.</item>
+                  <item>200 Pheaſants.</item>
+                  <item>500 Partridges.</item>
+                  <item>400 Woodcocks.</item>
+                  <item>100 Curlews.</item>
+                  <item>1000 Egrets.</item>
+                  <item>500 Stags, Bucks and Roes.</item>
+                  <item>4000 Veniſon Paſties cold.</item>
+                  <item>600 Pikes and Breams.</item>
+                  <item>1000 Diſhes of Jelly parted.</item>
+                  <item>4000 Diſhes of Jelly plain.</item>
+                  <item>400 Tarts cold.</item>
+                  <item>4000 Cuſtards cold.</item>
+                  <item>1506 Veniſon Parſties hot.</item>
+                  <item>2000 Cuſtards hot.</item>
+                  <item>12 Porpuſſes and Seals, beſides a<g ref="char:EOLhyphen"/>bundance of Sweet-meats.</item>
+               </list>
+            </p>
+         </div>
+         <trailer type="license">Licenſed and Entred.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and are to be ſold by <hi>Richard Bald<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in</hi> at his Houſe near the <hi>Oxford</hi> Arms in <hi>W<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi>-Lane <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by the Author, at the <hi>H<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> MDCXCL.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
